@@ -1,0 +1,11 @@
+{
+  "name": "rollercoaster",
+  "version": "1.0.0",
+  "description": "You can find it [here](https://perrintheplatipus.github.io/School-Work).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
